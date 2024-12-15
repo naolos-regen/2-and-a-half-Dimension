@@ -1,0 +1,9 @@
+#+title: Readme
+#+author: Naolos - Regen
+
+* Having fun with Raylib
+https://archlinux.org/packages/extra/x86_64/raylib/
+
+- [ ] add Wall sprites
+- [ ] add fake Z coordinate
+- [ ] add walking animation
